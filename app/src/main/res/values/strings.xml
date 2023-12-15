@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Compose_App</string>
+    <string name="hello">Welcome to Sellit24</string>
+    <string name="signup">Create an Account</string>
+    <string name="email">Enter your Email</string>
+</resources>
